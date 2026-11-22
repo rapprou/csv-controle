@@ -1,0 +1,201 @@
+id_mission;titre;benevole_nom;email;association;ville;date_debut;date_fin;statut
+M0032;Distribution de repas;Sophie Fontaine;sophie.fontaine@example.org;Les Jardins Partagés;Rennes;2026-04-27;2026-04-30;en cours
+M0054;Atelier lecture;Amina Mercier;amina.mercier@example.org;Le Fil Rouge;Saint-Étienne;2026-02-16;2026-02-21;en cours
+M0024;Soutien scolaire;Lucie Fontaine;lucie.fontaine@example.org;Solidarité Ouest;Brest;2026-05-04;2026-05-09;annulé
+M0179;Soutien scolaire;Thérèse Berger;therese.berger@example.org;Les Jardins Partagés;Rennes;2026-01-26;2026-01-28;prévu
+M0181;Atelier lecture;Hugo Fontaine;hugo.fontaine@example.org;Le Fil Rouge;Rennes;2026-02-23;2026-02-28;terminé
+M0082;Distribution de repas;Clara Marchand;clara.marchand@example.org;Le Fil Rouge;Brest;2026-02-16;2026-02-19;annulé
+M0092;Distribution de repas;Bastien Mercier;bastien.mercier@example.org;Le Fil Rouge;Amiens;2026-02-09;2026-02-11;terminé
+M0073;Collecte alimentaire;Bastien Lemoine;bastien.lemoine@example.org;Entraide du Quartier;Brest;2026-03-02;2026-03-05;annulé
+M0063;Friperie solidaire;Gaël Sauvage;gael.sauvage@example.org;Le Fil Rouge;Amiens;2026-02-16;2026-02-18;en cours
+M0037;Atelier lecture;Amina Thibault;amina.thibault@example.org;Le Fil Rouge;Nantes;2026-05-11;2026-05-12;terminé
+M0167;Accompagnement numérique;Vincent Oliveira;vincent.oliveira@example.org;Horizon Bénévole;Nantes;2026-01-26;2026-01-27;annulé
+M0006;Soutien scolaire;  Jean  Thibault ;jean.thibault@example.org;Horizon Bénévole; Saint-Étienne ;2026-04-06;2026-04-11;en cours
+M0169;Maraude de soirée;Vincent Marchand;vincent.marchand@example.org;Les Jardins Partagés;Brest;2026-03-09;2026-03-10;terminé
+M0091;Collecte alimentaire;Fatou Chastain;fatou.chastain@example.org;Les Jardins Partagés;Nîmes;2026-02-02;2026-02-04;terminé
+M0058;Maraude de soirée;Gaël Noël;gael.noel@example.org;Les Jardins Partagés;Brest;2026-05-11;2026-05-14;prévu
+M0011;Distribution de repas;Gaël Ponceau;gael.ponceau@example.org;Entraide du Quartier;Nîmes;2026-01-19;2026-01-23;en cours
+M0034;Atelier lecture;Karim Rousseau;karim.rousseau@example.org;Le Fil Rouge;Nantes;2026-02-23;2026-02-25;annulé
+M0132;Maraude de soirée;Olivier Chastain;olivier.chastain@example.org;Le Fil Rouge;Orléans;2026-04-20;2026-04-23;en cours
+M0183;Accompagnement numérique;Chloé Thibault;chloe.thibault@example.org;Le Fil Rouge;Rennes;2026-04-06;2026-04-09;en cours
+M0121;Friperie solidaire;Clara Rousseau;clara.rousseau@example.org;Entraide du Quartier;Nîmes;2026-01-12;2026-01-17;en cours
+M0165;Permanence d'accueil;Karim Granger;karim.granger@example.org;Horizon Bénévole;Brest;2026-04-20;2026-04-25;en cours
+M0141;Soutien scolaire;Élodie Dupont;elodie.dupont@example.org;Le Fil Rouge;Nîmes;2026-04-06;2026-04-11;prévu
+M0196;Atelier lecture;Hugo Fonntaine;hugo.fonntaine@example.org;Le Fil Rouge;Rennes;2026-02-23;2026-02-28;terminé
+M0118;Friperie solidaire;Élodie Sauvage;elodie.sauvage@example.org;Entraide du Quartier;Saint-Étienne;2026-04-06;2026-04-07;en cours
+M0090;Accompagnement numérique;Léa Quentin;lea.quentin@example.org;Entraide du Quartier;Saint-Étienne;2026-03-23;2026-03-27;en cours
+M0188;Soutien scolaire;Fatou Sauvage;fatou.sauvage@example.org;Les Jardins Partagés;Nantes;2026-04-13;2026-04-17;annulé
+M0148;Collecte alimentaire;Élodie Marchand;elodie.marchand@example.org;Horizon Bénévole;Saint-Étienne;2026-02-02;2026-02-06;prévu
+M0115;Maraude de soirée;Fatou Berger;fatou.berger@example.org;Le Fil Rouge;Saint-Étienne;2026-01-05;2026-01-06;prévu
+M0134;Accompagnement numérique;Jean Bachelet;jean.bachelet@example.org;Les Jardins Partagés;Nantes;2026-04-13;2026-04-14;annulé
+M0187;Permanence d'accueil;Marie Valois;marie.valois@example.org;Les Jardins Partagés;Nîmes;2026-05-18;2026-05-22;annulé
+M0057;Accompagnement numérique;Jean Mercier;jean.mercier@example.org;Solidarité Ouest;Amiens;2026-04-20;2026-04-21;annulé
+M0065;Atelier lecture;;clara.thibault@example.org;Le Fil Rouge;Amiens;2026-04-13;2026-04-16;terminé
+M0101;Soutien scolaire;Sophie Vasseur;sophie.vasseur@example.org;Entraide du Quartier;Nîmes;2026-04-06;2026-04-10;annulé
+M0062;Soutien scolaire;Jean Chastain;jean.chastain@example.org;Horizon Bénévole;Brest;2026-02-23;2026-02-26;annulé
+M0137;Atelier lecture;Marie Lefranc;marie.lefranc@example.org;Horizon Bénévole;Nantes;2026-03-30;2026-04-02;prévu
+M0152;Collecte alimentaire;Marie Rousseau;marie.rousseau@example.org;Entraide du Quartier;Orléans;2026-02-09;2026-02-10;terminé
+M0005;Atelier lecture;Olivier Marchand;olivier.marchand@example.org;Entraide du Quartier;Saint-Étienne;2026-04-13;2026-04-18;en cours
+M0119;Maraude de soirée;Lucie Rousseau;lucie.rousseau@example.org;Le Fil Rouge;Rennes;2026-04-13;2026-04-15;annulé
+M0017;Accompagnement numérique;Léa Dupont;lea.dupont@example.org;Le Fil Rouge;Nîmes;2026-05-04;2026-05-09;terminé
+M0008;Collecte alimentaire;Léa Fontaine;lea.fontaine@example.org;Horizon Bénévole;Brest;2026-01-12;2026-01-17;en cours
+M0048;Distribution de repas;Marie Thibault;marie.thibault@example.org;Solidarité Ouest;Nantes;2026-03-16;2026-03-21;en cours
+M0128;Maraude de soirée;Olivier Sauvage;olivier.sauvage@example.org;Horizon Bénévole;Saint-Étienne;2026-01-12;2026-01-14;prévu
+M0154;Atelier lecture;Amina Gaudin;amina.gaudin@example.org;Le Fil Rouge;Nîmes;2026-02-23;2026-02-27;annulé
+M0026;Permanence d'accueil;Chloé Oliveira;chloe.oliveira@example.org;Les Jardins Partagés;Amiens;2026-05-18;2026-05-22;terminé
+M0164;Maraude de soirée;Chloé Dupont;chloe.dupont@example.org;Entraide du Quartier;Orléans;2026-03-23;2026-03-24;en cours
+M0084;Distribution de repas;Hugo Dupont;hugo.dupont@example.org;Horizon Bénévole;Saint-Étienne;2026-04-27;2026-05-02;prévu
+M0171;Friperie solidaire;Karim Berger;karim.berger@example.org;Solidarité Ouest;Saint-Étienne;2026-02-16;2026-02-21;en cours
+M0079;Soutien scolaire;Thérèse Granger;therese.granger@example.org;Solidarité Ouest;Nîmes;2026-04-20;2026-04-23;annulé
+M0003;Collecte alimentaire;;hugo.sauvage@example.org;Les Jardins Partagés;Saint-Étienne;2026-03-23;2026-03-26;annulé
+M0041;Soutien scolaire;Pierre Lefranc;pierre.lefranc@example.org;Solidarité Ouest;Rennes;2026-03-16;2026-03-18;annulé
+M0031;Maraude de soirée;Pierre Dupont;pierre.dupont@example.org;Les Jardins Partagés;Nantes;2026-02-09;2026-02-14;en cours
+M0064;Soutien scolaire;Hugo Chastain;hugo.chastain@example.org;Les Jardins Partagés;Nîmes;2026-04-06;2026-04-09;terminé
+M0194;Distribution de repas;Bastien Merrcier;bastien.merrcier@example.org;Le Fil Rouge;Amiens;2026-02-09;2026-02-11;terminé
+M0088;Accompagnement numérique;Marie Lemoine;marie.lemoine@example.org;Entraide du Quartier;Rennes;2026-01-05;2026-01-09;en cours
+M0055;Soutien scolaire;Chloé Quentin;chloe.quentin@example.org;Horizon Bénévole;Nantes;2026-02-02;2026-02-03;prévu
+M0122;Distribution de repas;Bastien Ponceau;bastien.ponceau@example.org;Horizon Bénévole;Brest;2026-04-27;2026-04-30;prévu
+M0116;Distribution de repas;Hugo Lefranc;hugo.lefranc@example.org;Horizon Bénévole;Orléans;2026-03-16;2026-03-18;terminé
+M0112;Permanence d'accueil;Karim Gaudin;karim.gaudin@example.org;Le Fil Rouge;Rennes;2026-05-11;2026-05-12;annulé
+M0126;Collecte alimentaire;Chloé Marchand;chloe.marchand@example.org;Solidarité Ouest;Brest;2026-02-23;2026-02-25;en cours
+M0190;Friperie solidaire;Karim Chastain;karim.chastain@example.org;Horizon Bénévole;Amiens;2026-03-30;2026-04-02;terminé
+M0052;Atelier lecture;Élodie Thibault;elodie.thibault@example.org;Entraide du Quartier;Nantes;2026-03-16;2026-03-21;prévu
+M0161;Soutien scolaire;Nadia Ponceau;nadia.ponceau@example.org;Solidarité Ouest;Brest;2026-05-18;2026-05-23;annulé
+M0040;Accompagnement numérique;Thérèse Chastain;therese.chastain@example.org;Le Fil Rouge;Brest;2026-03-30;2026-04-02;terminé
+M0081;Friperie solidaire;Clara Lefranc;clara.lefranc@example.org;Solidarité Ouest;Nîmes;2026-02-02;2026-02-03;annulé
+M0009;Atelier lecture;Léa Valois;lea.valois@example.org;Le Fil Rouge;Orléans;2026-04-20;2026-04-21;en cours
+M0083;Collecte alimentaire;Gaël Chastain;gael.chastain@example.org;Horizon Bénévole;Brest;2026-03-09;2026-03-11;prévu
+M0192;Atelier lecture;Thérèse Oliveira;therese.oliveira@example.org;Les Jardins Partagés;Saint-Étienne;2026-01-26;2026-01-27;terminé
+M0023;Collecte alimentaire;Jean Quentin;jean.quentin@example.org;Solidarité Ouest;Nantes;2026-01-26;2026-01-28;prévu
+M0087;Permanence d'accueil;Sophie Sauvage;sophie.sauvage@example.org;Les Jardins Partagés;Saint-Étienne;2026-03-02;2026-03-07;en cours
+M0078;Atelier lecture;Marie Mercier;marie.mercier@example.org;Le Fil Rouge;Amiens;2026-04-06;2026-04-07;en cours
+M0140;Permanence d'accueil;  Jean  Fontaine ;jean.fontaine@example.org;Les Jardins Partagés; Amiens ;2026-02-02;2026-02-03;annulé
+M0061;Atelier lecture;Hugo Ponceau;hugo.ponceau@example.org;Entraide du Quartier;Brest;2026-03-30;2026-04-02;annulé
+M0076;Atelier lecture;  Vincent  Lefranc ;vincent.lefranc@example.org;Solidarité Ouest; Nantes ;2026-04-13;2026-04-15;annulé
+M0166;Accompagnement numérique;Pierre Quentin;pierre.quentin@example.org;Solidarité Ouest;Nantes;2026-04-06;2026-04-11;prévu
+M0016;Accompagnement numérique;Clara Noël;clara.noel@example.org;Les Jardins Partagés;Saint-Étienne;2026-03-23;2026-03-28;terminé
+M0093;Atelier lecture;;vincent.mercier@example.org;Entraide du Quartier;Amiens;2026-02-02;2026-02-06;prévu
+M0097;Collecte alimentaire;Hugo Quentin;hugo.quentin@example.org;Les Jardins Partagés;Nîmes;2026-04-20;2026-04-21;terminé
+M0125;Maraude de soirée;Clara Ponceau;clara.ponceau@example.org;Horizon Bénévole;Rennes;2026-03-30;2026-03-31;prévu
+M0120;Collecte alimentaire;Pierre Lemoine;N/A;Horizon Bénévole;Orléans;2026-04-20;2026-04-25;annulé
+M0022;Distribution de repas;Jean Berger;jean.berger@example.org;Horizon Bénévole;Nantes;2026-01-05;2026-01-09;prévu
+M0142;Distribution de repas;Fatou Lefranc;fatou.lefranc@example.org;Entraide du Quartier;Nantes;2026-05-11;2026-05-12;annulé
+M0045;Collecte alimentaire;Lucie Bachelet;lucie.bachelet@example.org;Le Fil Rouge;Orléans;2026-02-02;2026-02-03;terminé
+M0114;Maraude de soirée;Chloé Valois;chloe.valois@example.org;Entraide du Quartier;Saint-Étienne;2026-01-26;2026-01-30;terminé
+M0109;Distribution de repas;Hugo Oliveira;hugo.oliveira@example.org;Les Jardins Partagés;Rennes;2026-05-04;2026-05-07;annulé
+M0096;Soutien scolaire;Clara Fontaine;clara.fontaine@example.org;Entraide du Quartier;Amiens;2026-04-06;2026-04-08;prévu
+M0104;Accompagnement numérique;Élodie Noël;elodie.noel@example.org;Horizon Bénévole;Orléans;2026-01-26;2026-01-28;annulé
+M0070;Atelier lecture;Clara Bachelet;clara.bachelet@example.org;Les Jardins Partagés;Nîmes;2026-01-12;2026-01-16;terminé
+M0186;Soutien scolaire;Chloé Rousseau;chloe.rousseau@example.org;Horizon Bénévole;Amiens;2026-03-16;2026-03-17;annulé
+M0072;Collecte alimentaire;Hugo Granger;hugo.granger@example.org;Entraide du Quartier;Amiens;2026-03-16;2026-03-17;prévu
+M0150;Friperie solidaire;Karim Chastain;karim.chastain@example.org;Horizon Bénévole;Amiens;2026-03-30;2026-04-02;terminé
+M0155;Distribution de repas;  Léa  Noël ;lea.noel@example.org;Le Fil Rouge; Saint-Étienne ;2026-02-16;2026-02-21;annulé
+M0193;Collecte alimentaire;Hugo Quéntin; HUGO.QUENTIN@EXAMPLE.ORG ;Les Jardins Partagés;Nîmes;2026-04-20;2026-04-21;terminé
+M0129;Collecte alimentaire;Léa Lemoine;lea.lemoine@example.org;Entraide du Quartier;Amiens;2026-03-23;2026-03-27;annulé
+M0044;Maraude de soirée;Fatou Ponceau;fatou.ponceau@example.org;Solidarité Ouest;Nîmes;2026-01-12;2026-01-14;terminé
+M0110;Maraude de soirée;Amina Noël;amina.noel@example.org;Solidarité Ouest;Nîmes;2026-03-23;2026-03-28;prévu
+M0029;Distribution de repas;Clara Granger;clara.granger@example.org;Horizon Bénévole;Nîmes;2026-03-09;2026-03-10;prévu
+M0071;Permanence d'accueil;Vincent Rousseau;vincent.rousseau@example.org;Horizon Bénévole;Brest;2026-02-02;2026-02-05;annulé
+M0175;Soutien scolaire;Fatou Sauvage;fatou.sauvage@example.org;Les Jardins Partagés;Nantes;2026-04-13;2026-04-17;annulé
+M0012;Friperie solidaire;Vincent Gaudin;N/A;Horizon Bénévole;Nîmes;2026-03-02;2026-03-06;annulé
+M0086;Maraude de soirée;Hugo Mercier;hugo.mercier@example.org;Le Fil Rouge;Brest;2026-03-23;2026-03-25;en cours
+M0131;Collecte alimentaire;Karim Quentin;karim.quentin@example.org;Solidarité Ouest;Saint-Étienne;2026-03-02;2026-03-04;prévu
+M0136;Atelier lecture;Gaël Oliveira;gael.oliveira@example.org;Le Fil Rouge;Orléans;2026-02-09;2026-02-11;terminé
+M0002;Maraude de soirée;Pierre Vasseur;pierre.vasseur@example.org;Horizon Bénévole;Nantes;2026-03-30;2026-03-31;prévu
+M0146;Atelier lecture;Thérèse Oliveira;therese.oliveira@example.org;Les Jardins Partagés;Saint-Étienne;2026-01-26;2026-01-27;terminé
+M0051;Atelier lecture;Lucie Valois;lucie.valois@example.org;Le Fil Rouge;Nantes;2026-04-06;2026-04-09;en cours
+M0047;Maraude de soirée;Chloé Lefranc;chloe.lefranc@example.org;Entraide du Quartier;Amiens;2026-04-27;2026-04-28;annulé
+M0158;Friperie solidaire;Clara Dupont;clara.dupont@example.org;Horizon Bénévole;Amiens;2026-05-11;2026-05-13;annulé
+M0050;Accompagnement numérique;Vincent Ponceau;vincent.ponceau@example.org;Les Jardins Partagés;Brest;2026-02-02;2026-02-06;annulé
+M0135;Maraude de soirée;Noé Chastain;noe.chastain@example.org;Horizon Bénévole;Amiens;2026-03-30;2026-04-04;en cours
+M0127;Soutien scolaire;Noé Gaudin;noe.gaudin@example.org;Les Jardins Partagés;Nîmes;2026-04-27;2026-04-30;en cours
+M0147;Distribution de repas;Nadia Bachelet;nadia.bachelet@example.org;Les Jardins Partagés;Rennes;2026-02-02;2026-02-06;terminé
+M0004;Friperie solidaire;Fatou Lemoine;fatou.lemoine@example.org;Solidarité Ouest;Nantes;2026-03-16;2026-03-19;annulé
+M0173;Permanence d'accueil;Thérèse Gaudin;therese.gaudin@example.org;Entraide du Quartier;Nantes;2026-04-13;2026-04-14;prévu
+M0089;Distribution de repas;Chloé Gaudin;chloe.gaudin@example.org;Horizon Bénévole;Orléans;2026-04-27;2026-04-29;terminé
+M0103;Soutien scolaire;Karim Sauvage;karim.sauvage@example.org;Le Fil Rouge;Amiens;2026-01-26;2026-01-27;en cours
+M0098;Atelier lecture;Olivier Rousseau;olivier.rousseau@example.org;Le Fil Rouge;Orléans;2026-03-16;2026-03-17;prévu
+M0021;Atelier lecture;Léa Lefranc;lea.lefranc@example.org;Solidarité Ouest;Nîmes;2026-03-09;2026-03-12;prévu
+M0042;Distribution de repas;Jean Granger;jean.granger@example.org;Entraide du Quartier;Orléans;2026-05-04;2026-05-08;annulé
+M0162;Collecte alimentaire;Nadia Lefranc;nadia.lefranc@example.org;Horizon Bénévole;Saint-Étienne;2026-04-27;2026-04-29;annulé
+M0185;Collecte alimentaire;Nadia Noël;nadia.noel@example.org;Entraide du Quartier;Saint-Étienne;2026-05-18;2026-05-20;terminé
+M0145;Atelier lecture;Karim Mercier;karim.mercier@example.org;Le Fil Rouge;Saint-Étienne;2026-02-23;2026-02-27;annulé
+M0068;Permanence d'accueil;Fatou Rousseau;fatou.rousseau@example.org;Solidarité Ouest;Nantes;2026-05-04;2026-05-07;annulé
+M0060;Soutien scolaire;Vincent Vasseur;vincent.vasseur@example.org;Solidarité Ouest;Amiens;2026-04-06;2026-04-11;annulé
+M0160;Permanence d'accueil;Pierre Oliveira;pierre.oliveira@example.org;Entraide du Quartier;Amiens;2026-05-04;2026-05-07;terminé
+M0124;Maraude de soirée;Fatou Vasseur;fatou.vasseur@example.org;Le Fil Rouge;Orléans;2026-02-16;2026-02-21;annulé
+M0035;Accompagnement numérique;Pierre Valois;pierre.valois@example.org;Les Jardins Partagés;Nantes;2026-03-02;2026-03-04;terminé
+M0130;Maraude de soirée;Thérèse Thibault;therese.thibault@example.org;Entraide du Quartier;Amiens;2026-01-12;2026-01-15;prévu
+M0195;Friperie solidaire;Fatou Lemmoine;fatou.lemmoine@example.org;Solidarité Ouest;Nantes;2026-03-16;2026-03-19;annulé
+M0168;Maraude de soirée;Thérèse Lefranc;therese.lefranc@example.org;Horizon Bénévole;Orléans;2026-05-18;2026-05-21;terminé
+M0025;Collecte alimentaire;Jean Oliveira;jean.oliveira@example.org;Horizon Bénévole;Nîmes;2026-05-18;2026-05-23;en cours
+M0153;Soutien scolaire;Pierre Marchand;pierre.marchand@example.org;Entraide du Quartier;Brest;2026-03-30;2026-04-01;prévu
+M0189;Distribution de repas;Hugo Léfranc; HUGO.LEFRANC@EXAMPLE.ORG ;Horizon Bénévole;Orléans;2026-03-16;2026-03-18;terminé
+M0038;Soutien scolaire;Clara Quentin;clara.quentin@example.org;Les Jardins Partagés;Amiens;2026-03-16;2026-03-21;prévu
+M0149;Soutien scolaire;Bastien Vasseur;bastien.vasseur@example.org;Horizon Bénévole;Brest;2026-01-26;2026-01-28;prévu
+M0123;Atelier lecture;;chloe.noel@example.org;Le Fil Rouge;Nantes;2026-03-23;2026-03-28;terminé
+M0106;Friperie solidaire;Marie Quentin;N/A;Le Fil Rouge;Rennes;2026-03-30;2026-03-31;terminé
+M0178;Distribution de repas;Fatou Quentin;fatou.quentin@example.org;Solidarité Ouest;Brest;2026-05-18;2026-05-23;annulé
+M0172;Soutien scolaire;Vincent Valois;vincent.valois@example.org;Entraide du Quartier;Orléans;2026-01-26;2026-01-27;annulé
+M0191;Distribution de repas;Hugo Dupont; HUGO.DUPONT@EXAMPLE.ORG ;Horizon Bénévole;Saint-Étienne;2026-04-27;2026-05-02;prévu
+M0102;Friperie solidaire;Lucie Oliveira;lucie.oliveira@example.org;Les Jardins Partagés;Orléans;2026-05-04;2026-05-09;en cours
+M0043;Collecte alimentaire;Vincent Granger;vincent.granger@example.org;Solidarité Ouest;Brest;2026-02-02;2026-02-06;annulé
+M0176;Maraude de soirée;Pierre Sauvage;pierre.sauvage@example.org;Solidarité Ouest;Amiens;2026-02-09;2026-02-13;en cours
+M0069;Accompagnement numérique;Karim Thibault;karim.thibault@example.org;Horizon Bénévole;Nîmes;2026-05-04;2026-05-09;terminé
+M0039;Collecte alimentaire;Olivier Mercier;olivier.mercier@example.org;Entraide du Quartier;Amiens;2026-02-23;2026-02-27;en cours
+M0080;Soutien scolaire;Fatou Fontaine;fatou.fontaine@example.org;Solidarité Ouest;Nantes;2026-03-02;2026-03-06;annulé
+M0107;Atelier lecture;Nadia Gaudin;nadia.gaudin@example.org;Les Jardins Partagés;Brest;2026-03-23;2026-03-27;en cours
+M0170;Permanence d'accueil;Jean Sauvage;jean.sauvage@example.org;Les Jardins Partagés;Amiens;2026-02-02;2026-02-06;prévu
+M9002;Atelier lecture;Rose Bonnefoy;rose.bonnefoy@example.org;Entraide du Quartier;Amiens;2026-03-02;2026-03-04
+M0049;Distribution de repas;Olivier Oliveira;olivier.oliveira@example.org;Le Fil Rouge;Nîmes;2026-02-09;2026-02-12;terminé
+M0156;Friperie solidaire;Noé Marchand;noe.marchand@example.org;Entraide du Quartier;Orléans;2026-03-02;2026-03-05;terminé
+M0143;Atelier lecture;Jean Lemoine;jean.lemoine@example.org;Solidarité Ouest;Amiens;2026-02-23;2026-02-26;prévu
+M0095;Soutien scolaire;Lucie Sauvage;lucie.sauvage@example.org;Le Fil Rouge;Nantes;2026-03-09;2026-03-11;annulé
+M0105;Atelier lecture;Élodie Quentin;elodie.quentin@example.org;Solidarité Ouest;Nîmes;2026-01-05;2026-01-10;terminé
+M0074;Soutien scolaire;Fatou Granger;fatou.granger@example.org;Les Jardins Partagés;Saint-Étienne;2026-04-27;2026-04-30;en cours
+M0007;Permanence d'accueil;Sophie Lefranc;sophie.lefranc@example.org;Les Jardins Partagés;Orléans;2026-01-19;2026-01-24;en cours
+M0144;Atelier lecture;Sophie Berger;sophie.berger@example.org;Horizon Bénévole;Saint-Étienne;2026-01-05;2026-01-08;prévu
+M0113;Atelier lecture;Hugo Rousseau;hugo.rousseau@example.org;Solidarité Ouest;Orléans;2026-05-04;2026-05-05;prévu
+M0036;Permanence d'accueil;Amina Lemoine;amina.lemoine@example.org;Solidarité Ouest;Nîmes;2026-05-04;2026-05-08;en cours
+M0010;Permanence d'accueil;Vincent Noël;vincent.noel@example.org;Solidarité Ouest;Rennes;2026-02-09;2026-02-11;annulé
+M0100;Soutien scolaire;Chloé Berger;chloe.berger@example.org;Entraide du Quartier;Saint-Étienne;2026-04-20;2026-04-22;annulé
+M0151;Permanence d'accueil;Hugo Noël;hugo.noel@example.org;Horizon Bénévole;Nîmes;2026-03-02;2026-03-06;terminé
+M0019;Collecte alimentaire;Karim Lemoine;karim.lemoine@example.org;Solidarité Ouest;Amiens;2026-02-09;2026-02-10;en cours
+M0177;Soutien scolaire;Karim Bachelet;karim.bachelet@example.org;Entraide du Quartier;Nantes;2026-04-06;2026-04-07;en cours
+M0018;Maraude de soirée;Chloé Granger;chloe.granger@example.org;Solidarité Ouest;Nantes;2026-05-04;2026-05-06;annulé
+M0197;Accompagnement numérique;Léa Merrcier;lea.merrcier@example.org;Entraide du Quartier;Orléans;2026-04-06;2026-04-10;en cours
+M0184;Distribution de repas;Gaël Dupont;gael.dupont@example.org;Solidarité Ouest;Nîmes;2026-03-23;2026-03-28;prévu
+M0108;Soutien scolaire;Olivier Dupont;olivier.dupont@example.org;Horizon Bénévole;Rennes;2026-05-04;2026-05-06;prévu
+M0028;Collecte alimentaire;Nadia Oliveira;nadia.oliveira@example.org;Solidarité Ouest;Amiens;2026-01-12;2026-01-16;terminé
+M0033;Permanence d'accueil;Gaël Vasseur;gael.vasseur@example.org;Horizon Bénévole;Orléans;2026-03-23;2026-03-27;annulé
+M0075;Maraude de soirée;Nadia Rousseau;nadia.rousseau@example.org;Entraide du Quartier;Nîmes;2026-05-04;2026-05-05;en cours
+M0198;Accompagnement numérique;Léa Queentin;lea.queentin@example.org;Entraide du Quartier;Saint-Étienne;2026-03-23;2026-03-27;en cours
+M0180;Distribution de repas;Sophie Mercier;sophie.mercier@example.org;Solidarité Ouest;Rennes;2026-05-11;2026-05-16;terminé
+M0163;Soutien scolaire;Amina Quentin;amina.quentin@example.org;Entraide du Quartier;Saint-Étienne;2026-03-30;2026-04-04;annulé
+M0133;Soutien scolaire;Amina Bachelet;amina.bachelet@example.org;Entraide du Quartier;Saint-Étienne;2026-04-20;2026-04-21;annulé
+M9001;Collecte alimentaire;Yann Delorme;yann.delorme@example.org;Le Fil Rouge;Brest;2026-02-02;2026-02-04;terminé;commentaire ajouté par erreur
+M0138;Atelier lecture;Clara Mercier;clara.mercier@example.org;Le Fil Rouge;Brest;2026-03-23;2026-03-24;en cours
+M0157;Accompagnement numérique;Bastien Dupont;bastien.dupont@example.org;Solidarité Ouest;Orléans;2026-01-12;2026-01-17;annulé
+M0174;Maraude de soirée;Lucie Gaudin;lucie.gaudin@example.org;Horizon Bénévole;Rennes;2026-04-13;2026-04-17;prévu
+M0027;Permanence d'accueil;Élodie Granger;elodie.granger@example.org;Solidarité Ouest;Brest;2026-04-27;2026-04-30;terminé
+M0117;Permanence d'accueil;Chloé Lemoine;chloe.lemoine@example.org;Entraide du Quartier;Saint-Étienne;2026-04-13;2026-04-15;terminé
+M0139;Soutien scolaire;  Élodie  Fontaine ;elodie.fontaine@example.org;Entraide du Quartier; Rennes ;2026-04-20;2026-04-22;prévu
+M0159;Distribution de repas;Noé Dupont;noe.dupont@example.org;Les Jardins Partagés;Brest;2026-01-12;2026-01-17;terminé
+M0094;Permanence d'accueil;Gaël Granger;gael.granger@example.org;Le Fil Rouge;Rennes;2026-02-09;2026-02-11;prévu
+M0013;Friperie solidaire;Vincent Dupont;vincent.dupont@example.org;Horizon Bénévole;Nantes;2026-02-09;2026-02-12;terminé
+M0046;Permanence d'accueil;Bastien Quentin;bastien.quentin@example.org;Horizon Bénévole;Saint-Étienne;2026-05-11;2026-05-12;en cours
+M0059;Distribution de repas;Vincent Chastain;vincent.chastain@example.org;Entraide du Quartier;Orléans;2026-04-20;2026-04-23;terminé
+M0020;Soutien scolaire;Élodie Berger;elodie.berger@example.org;Solidarité Ouest;Saint-Étienne;2026-01-26;2026-01-31;prévu
+M0015;Atelier lecture;Hugo Marchand;hugo.marchand@example.org;Les Jardins Partagés;Nîmes;2026-03-16;2026-03-20;en cours
+M0056;Distribution de repas;Gaël Quentin;gael.quentin@example.org;Les Jardins Partagés;Nîmes;2026-03-30;2026-04-02;annulé
+M0053;Soutien scolaire;Amina Rousseau;amina.rousseau@example.org;Les Jardins Partagés;Nîmes;2026-04-27;2026-04-28;terminé
+M0001;Permanence d'accueil;Marie Dupont;marie.dupont@example.org;Entraide du Quartier;Saint-Étienne;2026-04-27;2026-05-01;en cours
+M0066;Atelier lecture;Bastien Marchand;bastien.marchand@example.org;Le Fil Rouge;Brest;2026-02-23;2026-02-26;prévu
+M0182;Distribution de repas;Jean Dupont;jean.dupont@example.org;Le Fil Rouge;Rennes;2026-01-12;2026-01-17;terminé
+M0077;Atelier lecture;Clara Gaudin;clara.gaudin@example.org;Les Jardins Partagés;Nantes;2026-04-27;2026-05-02;terminé
+M0099;Accompagnement numérique;Léa Mercier;lea.mercier@example.org;Entraide du Quartier;Orléans;2026-04-06;2026-04-10;en cours
+M0067;Friperie solidaire;Bastien Fontaine;bastien.fontaine@example.org;Horizon Bénévole;Rennes;2026-03-02;2026-03-05;prévu
+M0111;Collecte alimentaire;Sophie Lemoine;sophie.lemoine@example.org;Les Jardins Partagés;Saint-Étienne;2026-01-19;2026-01-24;annulé
+M0085;Soutien scolaire;Nadia Thibault;nadia.thibault@example.org;Horizon Bénévole;Nîmes;2026-04-27;2026-05-02;terminé
+M0030;Accompagnement numérique;Nadia Fontaine;nadia.fontaine@example.org;Le Fil Rouge;Nantes;2026-05-04;2026-05-07;prévu
+M0014;Accompagnement numérique;Bastien Lefranc;bastien.lefranc@example.org;Les Jardins Partagés;Nantes;2026-01-26;2026-01-28;annulé

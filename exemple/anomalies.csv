@@ -1,0 +1,21 @@
+﻿ligne;colonne;type;detail
+24;;quasi_doublon;ressemble à la ligne 6 (score 98)
+33;benevole_nom;champ_manquant;colonne obligatoire benevole_nom non renseignée
+50;benevole_nom;champ_manquant;colonne obligatoire benevole_nom non renseignée
+54;;quasi_doublon;ressemble à la ligne 8 (score 98)
+77;benevole_nom;champ_manquant;colonne obligatoire benevole_nom non renseignée
+80;email;champ_manquant;colonne obligatoire email non renseignée
+91;;doublon_exact;identique à la ligne 61
+93;;doublon_exact;identique à la ligne 78
+99;;doublon_exact;identique à la ligne 27
+100;email;champ_manquant;colonne obligatoire email non renseignée
+105;;doublon_exact;identique à la ligne 68
+129;;quasi_doublon;ressemble à la ligne 113 (score 98)
+133;;doublon_exact;identique à la ligne 58
+136;benevole_nom;champ_manquant;colonne obligatoire benevole_nom non renseignée
+137;email;champ_manquant;colonne obligatoire email non renseignée
+140;;doublon_exact;identique à la ligne 47
+149;;ligne_malformee;8 colonne(s) au lieu de 9
+172;;quasi_doublon;ressemble à la ligne 26 (score 97)
+176;;ligne_malformee;10 colonne(s) au lieu de 9
+196;;quasi_doublon;ressemble à la ligne 166 (score 97)
