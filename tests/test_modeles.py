@@ -58,3 +58,4 @@ def test_regles_du_projet_lisibles() -> None:
 
     assert "email" in regles.colonnes_obligatoires
     assert "N/A" in regles.valeurs_manquantes
+    assert regles.colonnes_cles == ("email", "date_debut")

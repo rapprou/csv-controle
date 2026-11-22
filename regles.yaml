@@ -7,6 +7,12 @@ colonnes_obligatoires:
   - email
   - date_debut
 
+# Colonnes qui identifient une mission : deux lignes de mêmes valeurs sur ces
+# colonnes (après normalisation) sont des doublons exacts.
+colonnes_cles:
+  - email
+  - date_debut
+
 # Valeurs considérées comme manquantes (comparaison insensible à la casse,
 # espaces de début et de fin ignorés).
 valeurs_manquantes:
@@ -15,3 +21,13 @@ valeurs_manquantes:
   - "n/a"
   - "null"
   - "-"
+
+# Quasi-doublons : lignes très proches sans être identiques (fautes de frappe).
+# Seules les lignes partageant la même valeur de champ_blocage sont comparées.
+quasi_doublons:
+  actif: true
+  seuil: 90
+  champs:
+    - benevole_nom
+    - email
+  champ_blocage: date_debut
