@@ -1,0 +1,17 @@
+# Règles de contrôle qualité appliquées à l'export CSV.
+
+# Colonnes qui doivent être renseignées sur chaque ligne.
+colonnes_obligatoires:
+  - id_mission
+  - benevole_nom
+  - email
+  - date_debut
+
+# Valeurs considérées comme manquantes (comparaison insensible à la casse,
+# espaces de début et de fin ignorés).
+valeurs_manquantes:
+  - ""
+  - "N/A"
+  - "n/a"
+  - "null"
+  - "-"
