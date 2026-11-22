@@ -98,8 +98,8 @@ def test_cle_partiellement_differente_non_doublon(tmp_path: Path) -> None:
     assert controler_doublons_exacts(lecture, REGLES) == []
 
 
-def test_colonne_cle_absente_ignoree(tmp_path: Path) -> None:
-    """Une colonne clé inconnue est sautée : la comparaison porte sur le reste."""
+def test_colonne_cle_absente_desactive_la_detection(tmp_path: Path) -> None:
+    """Une seule colonne clé absente suffit à ne pas lancer la détection."""
     lecture = lire(
         tmp_path,
         [
@@ -109,16 +109,15 @@ def test_colonne_cle_absente_ignoree(tmp_path: Path) -> None:
     )
     regles = Regles(colonnes_cles=("email", "numero_dossier"))
 
-    assert [groupe.lignes for groupe in controler_doublons_exacts(lecture, regles)] == [
-        (2, 3)
-    ]
+    # Comparer sur le seul email rapprocherait ces deux lignes à tort.
+    assert controler_doublons_exacts(lecture, regles) == []
 
 
-def test_aucune_colonne_cle_exploitable(tmp_path: Path) -> None:
-    """Sans colonne clé présente, la détection renvoie une liste vide."""
+def test_aucune_colonne_cle_configuree(tmp_path: Path) -> None:
+    """Sans colonne clé configurée, la détection renvoie une liste vide."""
     lecture = lire(tmp_path, ["M1,Dupont,jean@example.org,2026-01-05"])
 
-    assert controler_doublons_exacts(lecture, Regles(colonnes_cles=("statut",))) == []
+    assert controler_doublons_exacts(lecture, Regles()) == []
 
 
 def test_anomalies_hors_premiere_occurrence(tmp_path: Path) -> None:
